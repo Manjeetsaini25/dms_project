@@ -18,25 +18,40 @@ This project implements a **Distributed Shared Memory (DSM)** system in C. It al
 
 DSM_Project/
 │
+
 ├── main.c
+
 ├── dsm.h
+
 ├── dsm.c
+
 │
 ├── memory.h
+
 ├── memory.c
+
 │
 ├── network.h
+
 ├── network.c
+
 │
 ├── page_table.h
+
 ├── page_table.c
+
 │
 ├── consistency.h
+
 ├── consistency.c
+
 │
 ├── utils.h
+
 ├── utils.c
+
 │
+
 └── Makefile
 
 
